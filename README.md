@@ -1,3 +1,7 @@
+# Map
+
+Import `objmap.json` to https://objmap.zeldamods.org/
+
 # Notes
 
 - "Standard" Plateau (Optional: get the Woodcutter's Axe from the Old Man's Cabin). 
